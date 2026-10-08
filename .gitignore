@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+ngrams.db
+ngrams.db-journal
